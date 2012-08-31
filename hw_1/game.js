@@ -5,7 +5,7 @@ var intervalId;
 var timerDelay = 100;
 var rectLeft = 0;
 var quit = false;
-
+//asdasdasd
 function redrawAll() {
     // erase everything -- not efficient, but simple!
     ctx.clearRect(0, 0, 400, 400);
